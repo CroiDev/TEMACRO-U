@@ -7,7 +7,7 @@ Prévia em breve.
 <!--![previa](link da previa)-->
 
 ## Instalação
-Para **[Powercord](http://powercord.dev/)** ou **[Vizality](https://vizality.com/)** instalação, vá para a sua **Pasta de Temas -> abra um terminal de sua escolha** e cole / digite o seguinte:
+Para instalar no **[Powercord](http://powercord.dev/)** ou no **[Vizality](https://vizality.com/)**, vá para a sua **Pasta de Temas -> abra um terminal de sua escolha** e cole / digite o seguinte:
 ```
 git clone https://github.com/CroiDev/TEMACRO-U
 ```
@@ -17,19 +17,20 @@ git clone https://github.com/CroiDev/TEMACRO-U
 - [Baixar direto](https://github.com/CroiDev/TEMACRO-U/releases/download/temp-bd-download/TEMACRO-U.theme.css) <!-- link temporario -->
 - [Ver a fonte](https://croidev.github.io/TEMACRO-U/src/support/compiled.css)
 
-**Stylus**
+**[Stylus](https://github.com/openstyles/stylus)**
 1. Certifique-se de ter a extensão do navegador Stylus instalada.
     - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**
+    - **[Opera Addons](https://addons.opera.com/pt-br/extensions/details/stylus/)**
     - **[Firefox Addons](https://addons.mozilla.org/pt-BR/firefox/addon/styl-us/)**
 2. Após a instalação, acesse [esse link](https://croidev.github.io/TEMACRO-U/src/support/TEMACRO-U.user.css).
 3. Pressione o botão "Instalar estilo".
 
 ## Creditos
 
-# Base
+### Base
 - **[LuckFire](https://github.com/LuckFire)** por [AMOLED-Cord](https://github.com/LuckFire/AMOLED-Cord)
 
-# Outros
+### Outros
 - **[NYRI4](https://github.com/NYRI4)** por [Discolored](https://github.com/NYRI4/Discolored).
 - **[Snapperito](https://github.com/Snapperito/)** por [Ícones de configurações](https://github.com/snappercord/Settings-Icons).
 - Idéias de estruturação de arquivos originais de **[Slate](https://github.com/DiscordStyles/Slate)** e **[Nebula](https://github.com/Loremly/Nebula)**.
