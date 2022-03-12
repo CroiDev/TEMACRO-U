@@ -15,14 +15,14 @@ git clone https://github.com/CroiDev/TEMACRO-U
 **[BetterDiscord](https://betterdiscord.app/)**
 <!-- - [Direct Download](https://betterdiscord.net/ghdl?id=3625) -->
 - [Baixar direto](https://github.com/CroiDev/TEMACRO-U/releases/download/v1.0.0/TEMACRO-U.theme.css) <!-- link temporario -->
-- [Ver a fonte](https://croidev.github.io/TEMACRO-U/cdf/support/compilado.css)
+- [Ver a fonte](https://CroiDev.github.io/TEMACRO-U/cdf/support/compilado.css)
 
 **[Stylus](https://github.com/openstyles/stylus)**
 1. Certifique-se de ter a extensão do navegador Stylus instalada.
     - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**
     - **[Opera Addons](https://addons.opera.com/pt-br/extensions/details/stylus/)**
     - **[Firefox Addons](https://addons.mozilla.org/pt-BR/firefox/addon/styl-us/)**
-2. Após a instalação, acesse [esse link](https://croidev.github.io/TEMACRO-U/cdf/support/TEMACRO-U.user.css).
+2. Após a instalação, acesse [esse link](https://CroiDev.github.io/TEMACRO-U/cdf/support/TEMACRO-U.user.css).
 3. Pressione o botão "Instalar estilo".
 
 ## Creditos
