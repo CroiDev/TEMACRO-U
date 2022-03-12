@@ -1,0 +1,9 @@
+{
+    "name": "TEMACRO-U",
+    "description": "Um tema simples sem estravagancias e ajuda a não cansar tanto a vista.",
+    "version": "1.0.0",
+    "author": "Croi",
+    "theme": "/src/_index.scss",
+    "consent": "true",
+    "license": "MIT"
+}
