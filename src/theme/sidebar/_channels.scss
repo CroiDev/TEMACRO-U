@@ -1,0 +1,21 @@
+.container-1NXEtd {
+    // header
+    .selected-1GtAC5 .header-3OsQeK, .header-3OsQeK:hover {
+        background-color: var(--background-secondary);
+    }
+    .hasBanner-2IrYih .header-3OsQeK {
+        background-color: transparent;
+    }
+    // voice channel
+    .userLimit-VbEkeM {
+        .users-2JoyGL {
+            background-color: var(--background-secondary-alt);
+        }
+        .total-1c5KCN {
+            background-color: var(--background-secondary);
+            &::after {
+                border-right-color: var(--background-secondary)
+            }
+        }
+    }
+}

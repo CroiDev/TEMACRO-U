@@ -1,0 +1,25 @@
+#app-mount .container-2cd8Mz {
+    background-color: var(--background-primary);
+    .container-2oNtJn {
+        background-color: var(--background-secondary);
+    }
+    // active
+    .wrapper-2RrXDg {
+        border-color: var(--background-tertiary);
+        background-color: var(--background-tertiary);
+        &:hover {
+            border-color: var(--background-secondary);
+            background-color: var(--background-secondary);
+            .section-3G9aLW {
+                background-color: var(--background-tertiary);
+            }
+        }
+    }
+    // people
+    .peopleListItem-u6dGxF:hover {
+        background-color: var(--background-tertiary);
+        .actionButton-3-B2x- {
+            background-color: var(--background-primary);
+        }
+    }
+}

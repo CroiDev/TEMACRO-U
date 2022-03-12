@@ -1,0 +1,33 @@
+// these values are hard-coded cause im a lazy sack of shit
+// BUUUUUT doesnt matter much anyways
+// also unnecessary comments go brrrrrrrrrrrt
+body #app-mount {
+    .theme-light .root-g14mjS {
+        --header-primary: #fff;
+        --header-secondary: #b9bbbe;
+        --text-normal: #dcddde;
+        --text-muted: #969696;
+        background-color: rgb(20, 20, 20);
+        .footer-31IekZ {
+            box-shadow: none;
+            background-color: rgb(10, 10, 10);
+        }
+        .container-x8Y1ix,
+        .rowContainer-3t7486 {
+            background-color: black;
+            &:hover {
+                background-color: rgb(28, 28, 28);
+            }
+        }
+
+        .formTitle-2YQyhj {
+            color: var(--header-primary);
+        }
+        .sampleLink-5BWNy9 {
+            color: var(--text-muted);
+        }
+        .input-m1-Y7Q {
+            background-color: rgb(10, 10, 10);
+        }
+    }
+}

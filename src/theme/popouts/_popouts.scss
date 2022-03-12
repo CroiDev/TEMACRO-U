@@ -1,0 +1,19 @@
+#app-mount {
+    .layer-2aCOJ3 {
+        .header-1w9Q93 {
+            box-shadow: none;
+            background-color: var(--background-tertiary);
+            + div {
+                background-color: var(--background-secondary);
+            }
+        }
+        .tab-TRrPC8.active-1grPyy {
+            background-color: var(--background-modifier-selected);
+        }
+    }
+    // menu things (idk what they're called, will update when i gain braincells)
+    .lookFilled-1GseHa.select-1Ia3hD {
+        border-color: var(--background-secondary);
+        background-color: var(--background-tertiary);
+    }
+}
