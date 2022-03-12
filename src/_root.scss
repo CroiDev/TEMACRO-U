@@ -1,5 +1,5 @@
 :root {
-    // base
+    // Base
     --background-primary: black;
     --background-secondary: rgb(20, 20, 20);
     --background-secondary-alt: rgb(28, 28, 28);
@@ -9,28 +9,28 @@
     --channeltextarea-background: rgb(15, 15, 15);
     --searcharea-background: var(--background-secondary);
 
-    // text colors
+    // Cores dos textos
     --channels-default: #8b8b8b;
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
     --text-normal: #dcddde;
     --text-muted: #969696;
 
-    // scrollers
+    // Scrollers
     --scroller-thumb: rgb(30, 30, 30); // webkit-scrollbar-thumb
     --scroller-track: rgb(10, 10, 10); // webkit-scrollbar-track
 
-    // bg modifier colors
+    // Cores do modificador do fundo
     --background-modifier-rgb: 60, 60, 60;
     --background-modifier-hover: rgba(var(--background-modifier-rgb), 0.16);
     --background-modifier-active: rgba(var(--background-modifier-rgb), 0.24);
     --background-modifier-selected: rgba(var(--background-modifier-rgb), 0.32);
     --background-modifier-accent: rgba(255, 255, 255, 0.06);
 
-    // interactive
+    // Interativo
     --interactive-muted: rgb(75, 75, 75);
 
-    // elevation
+    // Elevação
     --elevation-low: 0 1px 0 rgba(40, 40, 50, 0.2), 0 1.5px 0 rgba(60, 60, 70, 0.05), 0 2px 0 rgba(40, 40, 50, 0.05);
     --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
 }
