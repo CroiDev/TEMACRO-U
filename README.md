@@ -3,7 +3,8 @@
 # TEMACRO U
 Simples, tema sem estravagancias e ajuda a não cansar tanto a vista.
 
-![preview](EM BREVE)
+Prévia em breve.
+<!--![previa](link da previa)-->
 
 ## Instalação
 Para **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** instalação, vá para a sua **Pasta de Temas -> abra um terminal de sua escolha** e cole / digite o seguinte:
