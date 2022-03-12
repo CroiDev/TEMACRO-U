@@ -7,7 +7,7 @@ Prévia em breve.
 <!--![previa](link da previa)-->
 
 ## Instalação
-Para **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** instalação, vá para a sua **Pasta de Temas -> abra um terminal de sua escolha** e cole / digite o seguinte:
+Para **[Powercord](http://powercord.dev/)** ou **[Vizality](https://vizality.com/)** instalação, vá para a sua **Pasta de Temas -> abra um terminal de sua escolha** e cole / digite o seguinte:
 ```
 git clone https://github.com/CroiDev/TEMACRO-U
 ```
