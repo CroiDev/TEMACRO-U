@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+![capa](https://raw.githubusercontent.com/CroiDev/TEMACRO-U/main/ativos/leiame/TEMACRO-U.gif) 
 
-You can use the [editor on GitHub](https://github.com/CroiDev/TEMACRO-U/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# TEMACRO U
+Simples, tema sem estravagancias e ajuda a não cansar tanto a vista.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prévia em breve.
+<!--![previa](link da previa)-->
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Instalação
+Para instalar no **[Powercord](http://powercord.dev/)** ou no **[Vizality](https://vizality.com/)**, vá para a sua **Pasta de Temas -> abra um terminal de sua escolha** e cole / digite o seguinte:
+```
+git clone https://github.com/CroiDev/TEMACRO-U
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**[BetterDiscord](https://betterdiscord.app/)**
+<!-- - [Direct Download](https://betterdiscord.net/ghdl?id=3625) -->
+- [Baixar direto](https://github.com/CroiDev/TEMACRO-U/releases/download/v1.0.0/TEMACRO-U.theme.css) <!-- link temporario -->
+- [Ver a fonte](https://CroiDev.github.io/TEMACRO-U/cdf/support/compilado.css)
 
-### Jekyll Themes
+**[Stylus](https://github.com/openstyles/stylus)**
+1. Certifique-se de ter a extensão do navegador Stylus instalada.
+    - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**
+    - **[Opera Addons](https://addons.opera.com/pt-br/extensions/details/stylus/)**
+    - **[Firefox Addons](https://addons.mozilla.org/pt-BR/firefox/addon/styl-us/)**
+2. Após a instalação, acesse [esse link](https://CroiDev.github.io/TEMACRO-U/cdf/support/TEMACRO-U.user.css).
+3. Pressione o botão "Instalar estilo".
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CroiDev/TEMACRO-U/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Creditos
 
-### Support or Contact
+### Base
+- **[LuckFire](https://github.com/LuckFire)** por [AMOLED-Cord](https://github.com/LuckFire/AMOLED-Cord)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Outros
+- **[NYRI4](https://github.com/NYRI4)** por [Discolored](https://github.com/NYRI4/Discolored).
+- **[Snapperito](https://github.com/Snapperito/)** por [Ícones de configurações](https://github.com/snappercord/Settings-Icons).
+- Idéias de estruturação de arquivos originais de **[Slate](https://github.com/DiscordStyles/Slate)** e **[Nebula](https://github.com/Loremly/Nebula)**.
+- **[LayneTheEpic](https://github.com/laynetheepic)** para eles **[Theme Fixer](https://laynetheepic.github.io/projects/pc-theme-converter/)**
