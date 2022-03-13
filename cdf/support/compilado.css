@@ -1,7 +1,7 @@
 :root {
-    --background-primary: rgb(255, 255, 255);
+    --background-primary: rgb(28, 28, 28);
     --background-secondary: rgb(20, 20, 20);
-    --background-secondary-alt: rgb(20, 20, 20);
+    --background-secondary-alt: rgb(22, 22, 22);
     --background-tertiary: rgb(10, 10, 10);
     --background-floating: rgb(12, 12, 12);
     --background-accent: var(--background-secondary-alt);
