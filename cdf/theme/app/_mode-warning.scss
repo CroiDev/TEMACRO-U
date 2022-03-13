@@ -1,7 +1,7 @@
 @mixin warning_flash {
     animation: flash 1s ease infinite;
     color: white;
-    background-color: #ed4245 !important;
+    background-color: #ED4245 !important;
 }
 
 .theme-light #app-mount {
@@ -19,12 +19,12 @@
         font-weight: 500;
         font-size: 14px;
         color: white;
-        background-color: #ed4245;
+        background-color: #ED4245;
     }
     .container-YkUktl .flex-2S1XBF .button-12Fmur:last-child {
         animation: flash 1s ease infinite;
         color: white;
-        background-color: #ed4245;
+        background-color: #ED4245;
     }
     #user-settings-cog-Appearance {
         @include warning_flash;
