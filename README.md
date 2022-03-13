@@ -1,4 +1,5 @@
-![banner](https://raw.githubusercontent.com/CroiDev/TEMACRO-U/main/ativos/leiame/TEMACRO-U.gif) 
+![capa](https://raw.githubusercontent.com/CroiDev/TEMACRO-U/main/ativos/leiame/TEMACRO-U.gif) 
+![banner](https://raw.githubusercontent.com/CroiDev/TEMACRO-U/main/ativos/leiame/banner.png)
 
 # TEMACRO U
 Simples, tema sem estravagancias e ajuda a não cansar tanto a vista.
