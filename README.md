@@ -14,7 +14,7 @@ git clone https://github.com/CroiDev/TEMACRO-U
 
 **[BetterDiscord](https://betterdiscord.app/)**
 <!-- - [Direct Download](https://betterdiscord.net/ghdl?id=3625) -->
-- [Baixar direto](https://github.com/CroiDev/TEMACRO-U/releases/download/v1.0.0/TEMACRO-U.theme.css) <!-- link temporario -->
+- [Baixar direto](https://github.com/CroiDev/TEMACRO-U/releases/download/v1.0.0/TEMACRO.theme.css) <!-- link temporario -->
 - [Ver a fonte](https://CroiDev.github.io/TEMACRO-U/cdf/support/compilado.css)
 
 **[Stylus](https://github.com/openstyles/stylus)**
