@@ -33,5 +33,3 @@ git clone https://github.com/CroiDev/TEMACRO-U
 ### Outros
 - **[NYRI4](https://github.com/NYRI4)** por [Discolored](https://github.com/NYRI4/Discolored).
 - **[Snapperito](https://github.com/Snapperito/)** por [Ícones de configurações](https://github.com/snappercord/Settings-Icons).
-- Idéias de estruturação de arquivos originais de **[Slate](https://github.com/DiscordStyles/Slate)** e **[Nebula](https://github.com/Loremly/Nebula)**.
-- **[LayneTheEpic](https://github.com/laynetheepic)** para eles **[Theme Fixer](https://laynetheepic.github.io/projects/pc-theme-converter/)**
