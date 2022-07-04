@@ -27,9 +27,6 @@ git clone https://github.com/CroiDev/TEMACRO-U
 
 ## Creditos
 
-### Base
-- **[LuckFire](https://github.com/LuckFire)** por [AMOLED-Cord](https://github.com/LuckFire/AMOLED-Cord)
-
 ### Outros
 - **[NYRI4](https://github.com/NYRI4)** por [Discolored](https://github.com/NYRI4/Discolored).
 - **[Snapperito](https://github.com/Snapperito/)** por [Ícones de configurações](https://github.com/snappercord/Settings-Icons).
